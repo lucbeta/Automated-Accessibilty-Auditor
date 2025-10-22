@@ -1,6 +1,12 @@
-# Accessibility Audit Agent Skill
+# Accessibility Audit Agent Skill for Claude
 
-Professional web accessibility testing integrated into Claude. Scan websites and generate comprehensive WCAG 2.2 compliance reports.
+Professional web accessibility testing is integrated into Claude. Scan websites and generate comprehensive WCAG 2.2 compliance reports.
+
+## About
+
+This skill integrates axe-core, developed by Deque Systems, the gold standard in automated accessibility testing. axe-core powers accessibility tools across the industry including browser extensions, CI/CD integrations, and testing frameworks.
+
+By combining automated testing with Claude's ability to explain and contextualize issues, this skill makes accessibility testing more approachable and actionable for everyone.
 
 ## What This Skill Does
 
@@ -89,7 +95,7 @@ Claude will:
 Uses axe-core, the same engine powering browser accessibility DevTools, to automatically test against 50+ WCAG rules.
 
 ### WCAG 2.2 Compliance
-Tests against the latest WCAG 2.2 standards including new success criteria:
+Tests against the latest WCAG 2.2 standards, including new success criteria:
 - Focus Not Obscured
 - Dragging Movements  
 - Target Size (Minimum)
@@ -180,8 +186,3 @@ If you encounter issues:
 
 Apache 2.0
 
-## About
-
-This skill integrates axe-core, developed by Deque Systems, the gold standard in automated accessibility testing. axe-core powers accessibility tools across the industry including browser extensions, CI/CD integrations, and testing frameworks.
-
-By combining automated testing with Claude's ability to explain and contextualize issues, this skill makes accessibility testing more approachable and actionable for everyone.
