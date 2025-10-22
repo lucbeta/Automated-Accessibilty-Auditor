@@ -1,6 +1,6 @@
 # Accessibility Audit Agent Skill for Claude
 
-Professional web accessibility testing is integrated into Claude. Scan websites and generate comprehensive WCAG 2.2 compliance reports.
+Professional web accessibility testing integrated into Claude. Scan websites and generate comprehensive WCAG 2.2 compliance reports.
 
 ## About
 
